@@ -1,6 +1,6 @@
 # PDFsharp-test
 
-A .NET library for processing PDF (Just a test)
+A .NET library for processing PDF
 
 This is not PDFsharp! Just a test repository to try out working with GitHub.
 
